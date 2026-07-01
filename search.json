@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The guide from fundamentals to computational practice on Neurogenomics",
+    "section": "",
+    "text": "By Aura Aguilar-Roldán\nWelcome to blog. Below is the comprehensive guide and syllabus outlining the foundational and computational topics explored in this blog.\n1. Introduction to the Field\n1.1 Defining Neurogenomics\n1.2 The Historical Context\n1.3 Key Terminology & Glossary\n2. Foundational Genetics and Genomic Architecture\n\nDNA, RNA, and Protein Synthesis: A brief refresher on the central dogma.\nGenetic Variation: Understanding SNPs, indels, and structural variants in the context of the nervous system.\nGenomic Architecture: How the spatial organisation of the genome influences neurological function.\n\n3. Computational Methods and Data Analysis\n\nIntroduction to the Bioinformatics Toolkit: Setting up your environment (R, Python, Bash).\nHandling Large-Scale Genomic Datasets: Best practices for quality control and preprocessing.\nGenome-Wide Association Studies (GWAS): Principles, execution, and interpreting Manhattan plots.\nTranscriptomics (RNA-Seq): Analysing gene expression in brain tissue.\n\n4. Complex Traits and Genetic Liabilities\n\nPolygenic Risk Scores (PRS): Calculating and interpreting cumulative genetic risk for neurological conditions.\nExploring Genetic Liabilities: How subtle genetic variations contribute to complex brain disorders and behavioural traits.\nEpigenetics and the Brain: How environmental factors influence gene expression without altering the DNA sequence.\n\n5. Locus-Specific Studies and Applications\n\nDeep Dives into Critical Regions: Unpacking the significance of highly associated regions (e.g., the MAPT locus) in neurodegeneration.\nThe Genetics of Sleep and Circadian Rhythms: How our DNA dictates our rest.\nPharmacogenomics: Tailoring neurological and psychiatric treatments based on individual genetic profiles.\n\n6. The Future of Computational Neurogenomics\n\nSingle-Cell Sequencing: Mapping the brain one cell at a time.\nMachine Learning Integration: Predictive modelling in genomic research.\nEthical Considerations: Data privacy, genetic testing, and the implications of neurogenomic profiling.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 1, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 28, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  }
+]
