@@ -1,0 +1,70 @@
+---
+title: "The guide from fundamentals to computational practice on Neurogenomics"
+listing:
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+*By Aura Aguilar-Roldán*
+
+Welcome to blog. Below is the comprehensive guide and syllabus outlining the foundational and computational topics explored in this blog.
+
+**1. Introduction to the Field**
+
+1.1 Defining Neurogenomics
+
+1.2 The Historical Context
+
+1.3 Key Terminology & Glossary
+
+**2. Foundational Genetics and Genomic Architecture**
+
+*   **DNA, RNA, and Protein Synthesis:** A brief refresher on the central dogma.
+
+*   **Genetic Variation:** Understanding SNPs, indels, and structural variants in the context of the nervous system.
+
+*   **Genomic Architecture:** How the spatial organisation of the genome influences neurological function.
+
+**3. Computational Methods and Data Analysis**
+
+*   **Introduction to the Bioinformatics Toolkit:** Setting up your environment (R, Python, Bash).
+
+*   **Handling Large-Scale Genomic Datasets:** Best practices for quality control and preprocessing.
+
+*   **Genome-Wide Association Studies (GWAS):** Principles, execution, and interpreting Manhattan plots.
+
+*   **Transcriptomics (RNA-Seq):** Analysing gene expression in brain tissue.
+
+**4. Complex Traits and Genetic Liabilities**
+
+*   **Polygenic Risk Scores (PRS):** Calculating and interpreting cumulative genetic risk for neurological conditions.
+
+*   **Exploring Genetic Liabilities:** How subtle genetic variations contribute to complex brain disorders and behavioural traits.
+
+*   **Epigenetics and the Brain:** How environmental factors influence gene expression without altering the DNA sequence.
+
+
+**5. Locus-Specific Studies and Applications**
+
+*   **Deep Dives into Critical Regions:** Unpacking the significance of highly associated regions (e.g., the MAPT locus) in neurodegeneration.
+
+*   **The Genetics of Sleep and Circadian Rhythms:** How our DNA dictates our rest.
+
+*   **Pharmacogenomics:** Tailoring neurological and psychiatric treatments based on individual genetic profiles.
+
+**6. The Future of Computational Neurogenomics**
+
+*   **Single-Cell Sequencing:** Mapping the brain one cell at a time.
+
+*   **Machine Learning Integration:** Predictive modelling in genomic research.
+
+*   **Ethical Considerations:** Data privacy, genetic testing, and the implications of neurogenomic profiling.
+
+
+

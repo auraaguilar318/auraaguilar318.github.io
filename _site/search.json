@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The guide from fundamentals to computational practice on Neurogenomics",
+    "section": "",
+    "text": "By Aura Aguilar-Roldán\nWelcome to blog. Below is the comprehensive guide and syllabus outlining the foundational and computational topics explored in this blog.\n1. Introduction to the Field\n1.1 Defining Neurogenomics\n1.2 The Historical Context\n1.3 Key Terminology & Glossary\n2. Foundational Genetics and Genomic Architecture\n\nDNA, RNA, and Protein Synthesis: A brief refresher on the central dogma.\nGenetic Variation: Understanding SNPs, indels, and structural variants in the context of the nervous system.\nGenomic Architecture: How the spatial organisation of the genome influences neurological function.\n\n3. Computational Methods and Data Analysis\n\nIntroduction to the Bioinformatics Toolkit: Setting up your environment (R, Python, Bash).\nHandling Large-Scale Genomic Datasets: Best practices for quality control and preprocessing.\nGenome-Wide Association Studies (GWAS): Principles, execution, and interpreting Manhattan plots.\nTranscriptomics (RNA-Seq): Analysing gene expression in brain tissue.\n\n4. Complex Traits and Genetic Liabilities\n\nPolygenic Risk Scores (PRS): Calculating and interpreting cumulative genetic risk for neurological conditions.\nExploring Genetic Liabilities: How subtle genetic variations contribute to complex brain disorders and behavioural traits.\nEpigenetics and the Brain: How environmental factors influence gene expression without altering the DNA sequence.\n\n5. Locus-Specific Studies and Applications\n\nDeep Dives into Critical Regions: Unpacking the significance of highly associated regions (e.g., the MAPT locus) in neurodegeneration.\nThe Genetics of Sleep and Circadian Rhythms: How our DNA dictates our rest.\nPharmacogenomics: Tailoring neurological and psychiatric treatments based on individual genetic profiles.\n\n6. The Future of Computational Neurogenomics\n\nSingle-Cell Sequencing: Mapping the brain one cell at a time.\nMachine Learning Integration: Predictive modelling in genomic research.\nEthical Considerations: Data privacy, genetic testing, and the implications of neurogenomic profiling.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 1, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 28, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#phase-1-core-biological-foundations",
+    "href": "index.html#phase-1-core-biological-foundations",
+    "title": "A Comprehensive Roadmap to Computational Neurogenomics",
+    "section": "Phase 1: Core Biological Foundations",
+    "text": "Phase 1: Core Biological Foundations\nBefore analysing high-dimensional genomic datasets, one must master the unique cellular and molecular complexity of the central nervous system (CNS).\n\n1.1. Molecular Neurobiology & Cellular Diversity\n\nCharacterisation of major CNS cell types: neurones, astrocytes, microglia, oligodendrocytes, and endothelial cells.\nSynaptic plasticity, neurotransmission, and activity-dependent transcriptional programmes.\n\n1.2. Genomic Architecture in the Brain\n\nStructural variations, copy number variations (CNVs), and repeat expansions in neurobiology.\nSomatic mosaicism: how genomic variation arises within single neurones during development and ageing.\n\n1.3. Neuro-epigenetics & Gene Regulation\n\nDNA methylation patterns and post-translational histone modifications in neural tissue.\nChromatin accessibility (ATAC-seq) and 3D genome conformation (Hi-C) across neurodevelopmental trajectories."
+  },
+  {
+    "objectID": "index.html#phase-2-essential-computational-bioinformatic-toolkit",
+    "href": "index.html#phase-2-essential-computational-bioinformatic-toolkit",
+    "title": "A Comprehensive Roadmap to Computational Neurogenomics",
+    "section": "Phase 2: Essential Computational & Bioinformatic Toolkit",
+    "text": "Phase 2: Essential Computational & Bioinformatic Toolkit\nRigorous computational neurogenomics relies on reproducible workflows and robust statistical modelling.\n\n2.1. The Command-Line Environment & HPC\n\nNavigating UNIX/Linux environments, Bash scripting, and job scheduling on High-Performance Computing (HPC) clusters (e.g., SLURM).\n\n2.2. Programming Foundations for Biostatistical Modelling\n\nR: Advanced data manipulation (tidyverse), genomic ranges (GenomicRanges), and statistical visualization (ggplot2).\nPython: Scientific computing (numpy, scipy, pandas) and machine learning pipelines (scikit-learn).\n\n2.3. Reproducible Research Practice\n\nVersion control using Git and GitHub.\nDynamic documentation and scientific publishing with Quarto and Jupyter Notebooks."
+  },
+  {
+    "objectID": "index.html#phase-3-primary-data-modalities-analytical-workflows",
+    "href": "index.html#phase-3-primary-data-modalities-analytical-workflows",
+    "title": "A Comprehensive Roadmap to Computational Neurogenomics",
+    "section": "Phase 3: Primary Data Modalities & Analytical Workflows",
+    "text": "Phase 3: Primary Data Modalities & Analytical Workflows\nThis core section covers the processing, quality control, and interpretation of key neurogenomic assays.\n\n3.1. Genome-Wide Association Studies (GWAS)\n\nInvestigating genetic liability for complex neurodegenerative and psychiatric conditions.\nPolygenic Risk Scores (PRS) and linkage disequilibrium (LD) score regression.\n\n3.2. Transcriptomic Profiling of Neural Tissue\n\nBulk RNA-seq: Alignment, quantification, and differential expression analysis in complex tissue homogenates.\nSingle-Cell & Single-Nucleus RNA-seq (scRNA-seq / snRNA-seq): Resolving cellular heterogeneity in human post-mortem brain samples using tools such as Seurat and Scanpy.\n\n3.3. Spatial Transcriptomics\n\nMapping gene expression directly onto anatomical brain slices and neuroanatomical atlases."
+  },
+  {
+    "objectID": "index.html#phase-4-applied-neurogenomics-disease-modelling",
+    "href": "index.html#phase-4-applied-neurogenomics-disease-modelling",
+    "title": "A Comprehensive Roadmap to Computational Neurogenomics",
+    "section": "Phase 4: Applied Neurogenomics & Disease Modelling",
+    "text": "Phase 4: Applied Neurogenomics & Disease Modelling\nTranslating raw data into actionable neurobiological insights regarding disease mechanisms.\n\n4.1. Investigating Complex Loci & Structural Variants\n\nFine-mapping and prioritisation of causal variants within challenging genomic loci (e.g., dissecting the neurodegenerative MAPT region).\n\n4.2. Functional Integration & QTL Mapping\n\nExpression Quantitative Trait Loci (eQTLs) and Splicing Quantitative Trait Loci (sQTLs) in brain tissue.\nCo-expression network analyses (e.g., WGCNA) to identify disease-associated modules.\n\n4.3. Multi-Omics Data Integration\n\nSynthesising genetic, transcriptomic, and proteomic layers to uncover pathways underlying cognitive function and neurological disorders."
+  },
+  {
+    "objectID": "index.html#phase-5-open-science-ethics-biobanking",
+    "href": "index.html#phase-5-open-science-ethics-biobanking",
+    "title": "A Comprehensive Roadmap to Computational Neurogenomics",
+    "section": "Phase 5: Open Science, Ethics, & Biobanking",
+    "text": "Phase 5: Open Science, Ethics, & Biobanking\n\n5.1. Navigating Large-Scale Genomic Consortia\n\nLeveraging public resources: UK Biobank, PsychENCODE, GTEx, and the Allen Brain Atlas.\n\n5.2. Ethical Considerations in Neuropsychiatric Genomics\n\nData privacy, patient consent, and mitigating historical biases in genomic diversity."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html#by-aura-aguilar-roldán",
+    "href": "index.html#by-aura-aguilar-roldán",
+    "title": "The guide to Neurogenomics: From Fundamentals to Computational Practice",
+    "section": "",
+    "text": "Welcome to blog. Below is the comprehensive guide and syllabus outlining the foundational and computational topics explored in this blog.\n1. Introduction to the Field\n\nDefining Neurogenomics: The intersection of neuroscience, genetics, and data science.\nThe Historical Context: How the Human Genome Project paved the way for modern brain research.\nKey Terminology & Glossary: Essential vocabulary for navigating genomic literature.\n\n2. Foundational Genetics and Genomic Architecture\n\nDNA, RNA, and Protein Synthesis: A brief refresher on the central dogma.\nGenetic Variation: Understanding SNPs, indels, and structural variants in the context of the nervous system.\nGenomic Architecture: How the spatial organisation of the genome influences neurological function.\n\n3. Computational Methods and Data Analysis\n\nIntroduction to the Bioinformatics Toolkit: Setting up your environment (R, Python, Bash).\nHandling Large-Scale Genomic Datasets: Best practices for quality control and preprocessing.\nGenome-Wide Association Studies (GWAS): Principles, execution, and interpreting Manhattan plots.\nTranscriptomics (RNA-Seq): Analysing gene expression in brain tissue.\n\n4. Complex Traits and Genetic Liabilities\n\nPolygenic Risk Scores (PRS): Calculating and interpreting cumulative genetic risk for neurological conditions.\nExploring Genetic Liabilities: How subtle genetic variations contribute to complex brain disorders and behavioural traits.\nEpigenetics and the Brain: How environmental factors influence gene expression without altering the DNA sequence.\n\n5. Locus-Specific Studies and Applications\n\nDeep Dives into Critical Regions: Unpacking the significance of highly associated regions (e.g., the MAPT locus) in neurodegeneration.\nThe Genetics of Sleep and Circadian Rhythms: How our DNA dictates our rest.\nPharmacogenomics: Tailoring neurological and psychiatric treatments based on individual genetic profiles.\n\n6. The Future of Computational Neurogenomics\n\nSingle-Cell Sequencing: Mapping the brain one cell at a time.\nMachine Learning Integration: Predictive modelling in genomic research.\nEthical Considerations: Data privacy, genetic testing, and the implications of neurogenomic profiling."
+  }
+]
